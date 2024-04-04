@@ -1,0 +1,19 @@
+body {
+  color: chartreuse;
+  width: 80%;
+  height: 100%;
+  margin: auto;
+  text-align: center;
+}
+
+.invisible {
+  color: white;
+}
+
+.invisible:hover {
+  color: chartreuse;
+}
+
+.hide {
+  display: none;
+}
