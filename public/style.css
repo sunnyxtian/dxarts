@@ -1,17 +1,17 @@
 body {
-  color: chartreuse;
-  width: 80%;
+  color: red;
+  width: 70%;
   height: 100%;
   margin: auto;
   text-align: center;
 }
 
-.invisible {
+a {
   color: white;
 }
 
-.invisible:hover {
-  color: chartreuse;
+a:hover {
+  color: red;
 }
 
 .hide {
