@@ -22,9 +22,17 @@ a:hover {
 iframe {
   margin-top: 30%;
   margin-bottom: 30%;
+
+  mix-blend-mode: screen;
+
 }
 
 .chinese {
   background-image: url("img/chinese.jpg");
-  background-size: 30%;
+  background-size: 15%;
+}
+
+.asian {
+  background-image: url("img/dumpling.jpg");
+  background-size: 20%;
 }
