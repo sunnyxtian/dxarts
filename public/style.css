@@ -4,6 +4,7 @@ body {
   height: 100%;
   margin: auto;
   text-align: center;
+  overflow-y: visible;
 }
 
 a {
@@ -16,4 +17,14 @@ a:hover {
 
 .hide {
   display: none;
+}
+
+iframe {
+  margin-top: 30%;
+  margin-bottom: 30%;
+}
+
+.chinese {
+  background-image: url("img/chinese.jpg");
+  background-size: 30%;
 }
