@@ -37,3 +37,16 @@ iframe {
   background-image: url("img/dumpling.jpg");
   background-size: 20%;
 }
+
+.charli {
+  background: url("img/charli.png") ,rgb(53, 9, 47);
+  background-size: 20%;
+}
+
+.charli iframe {
+  mix-blend-mode: normal;
+}
+
+.cite {
+  font-size: 1.5em;
+}
