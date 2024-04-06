@@ -50,3 +50,11 @@ iframe {
 .cite {
   font-size: 1.5em;
 }
+
+.online {
+  background: white;
+}
+
+.online iframe {
+  mix-blend-mode: normal;
+}
